@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Thito-Dashboard/static/css/main.fb6cdc9f.css",
-    "main.js": "/Thito-Dashboard/static/js/main.aec97108.js",
-    "static/js/488.2a80e524.chunk.js": "/Thito-Dashboard/static/js/488.2a80e524.chunk.js",
-    "index.html": "/Thito-Dashboard/index.html",
-    "main.fb6cdc9f.css.map": "/Thito-Dashboard/static/css/main.fb6cdc9f.css.map",
-    "main.aec97108.js.map": "/Thito-Dashboard/static/js/main.aec97108.js.map",
-    "488.2a80e524.chunk.js.map": "/Thito-Dashboard/static/js/488.2a80e524.chunk.js.map"
+    "main.css": "/Thito-Dashboards/static/css/main.fb6cdc9f.css",
+    "main.js": "/Thito-Dashboards/static/js/main.9b4c5ceb.js",
+    "static/js/488.2a80e524.chunk.js": "/Thito-Dashboards/static/js/488.2a80e524.chunk.js",
+    "index.html": "/Thito-Dashboards/index.html",
+    "main.fb6cdc9f.css.map": "/Thito-Dashboards/static/css/main.fb6cdc9f.css.map",
+    "main.9b4c5ceb.js.map": "/Thito-Dashboards/static/js/main.9b4c5ceb.js.map",
+    "488.2a80e524.chunk.js.map": "/Thito-Dashboards/static/js/488.2a80e524.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb6cdc9f.css",
-    "static/js/main.aec97108.js"
+    "static/js/main.9b4c5ceb.js"
   ]
 }
